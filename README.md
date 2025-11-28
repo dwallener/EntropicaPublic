@@ -2,9 +2,7 @@
 
 ### v001
 
-The source code for the first Entropica paper 
-
-The model itself is in v000/quantum_lm.py
+The source code for the first Entropica paper. The model itself is in v000/quantum_lm.py
 
 https://github.com/dwallener/EntropicaPublic/blob/main/v001/quantum_lm.py 
 
