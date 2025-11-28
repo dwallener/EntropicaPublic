@@ -11,3 +11,6 @@ https://github.com/dwallener/EntropicaPublic/blob/main/v001/quantum_lm.py
 
 The scripts generate/sample/train manage the dataset, inference and training process.
 
+The first arXiv paper is:
+
+[Entropica___001.pdf](https://github.com/user-attachments/files/23829791/Entropica___001.pdf)
