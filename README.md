@@ -1,3 +1,10 @@
+We present Entropica, the first generative language model whose forward pass is physically realizable as a passive linear-optical interferometer operating at zero electrical power during inference. 
+
+The model uses a 1024-dimensional complex Hilbert space with 32 layers of programmable Mach–Zehnder meshes (Reck architecture) and derives token probabilities directly via the Born rule on a 650 nm laser beam. 
+
+Despite using only unitary operations and no attention mechanism, a 1024×32 model achieves coherent TinyStories generation after < 1.8 hours of training on a single consumer GPU. We further demonstrate a complete optical implementation path using printed phase masks on transparency film and a $30 laser diode. 
+
+
 Most recent technical note: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17764289.svg)](https://doi.org/10.5281/zenodo.17764289)
 
 https://zenodo.org/records/17764289 
