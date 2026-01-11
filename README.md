@@ -1,9 +1,10 @@
 ## January Updates
 
 It was a fun holiday. First IPs have been filed. Several POCs done with all-optical inference to explore the envelope of what is possible:
-
-- AlphaGo, a unitary ish Born-rule collapse all-optical Go player (this is from one overnight training)
-
+```
+AlphaGo, a unitary ish Born-rule collapse all-optical Go player (this is from one overnight training)
+https://github.com/dwallener/EntropicaPublic/blob/main/v0.4-alphago/README.md
+```
 
 ## Background (WIP)
 
