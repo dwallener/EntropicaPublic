@@ -1,3 +1,12 @@
+## January Updates
+
+It was a fun holiday. First IPs have been filed. Several POCs done with all-optical inference to explore the envelope of what is possible:
+
+- AlphaGo, a unitary ish Born-rule collapse all-optical Go player (this is from one overnight training)
+
+
+## Background (WIP)
+
 We present Entropica, the first generative language model whose forward pass is physically realizable as a passive linear-optical interferometer operating at zero electrical power during inference. 
 
 The model uses a 1024-dimensional complex Hilbert space with 32 layers of programmable Mach–Zehnder meshes (Reck architecture) and derives token probabilities directly via the Born rule on a 650 nm laser beam. 
