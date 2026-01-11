@@ -1,9 +1,17 @@
 ## January Updates
 
-It was a fun holiday. First IPs have been filed. Several POCs done with all-optical inference to explore the envelope of what is possible:
+It was a fun holiday. First IPs have been filed. Several POCs done with all-optical inference (no GPU!) to explore the envelope of what is possible:
 
 - AlphaGo, a unitary ish Born-rule collapse all-optical Go player (this is from one overnight training)
 > https://github.com/dwallener/EntropicaPublic/blob/main/v0.4-alphago/README.md
+
+- 2gps, similar optical pipeline figuring out its coordinates, altitude and heading based on what it sees out the forward view camera
+- Two versions: straight HUD-like output and (more, better) encoding the coordinates into a form suitable for secure line-of-sight laser comms
+> https://github.com/dwallener/EntropicaPublic/blob/main/v0.4-gps/README.md
+
+- Target, this time we detect and track targets
+> https://github.com/dwallener/EntropicaPublic/blob/main/v0.4-target/README.md
+
 
 ## Background (WIP)
 
