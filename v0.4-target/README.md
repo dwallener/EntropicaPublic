@@ -8,3 +8,4 @@ Vehicle detect/track:
 Human threat detect/track:
 > https://github.com/user-attachments/assets/ac0dc1c5-e3b6-4a9f-b72c-71de07605d68
 
+Photonic computing naturally maps to "form following blob", so the artificial/misleading rectangular bounding box of tradition is no longer needed.
