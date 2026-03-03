@@ -1,3 +1,7 @@
+## March updates
+
+I need to move some work over from the private repos. The exploration into using massivly multheaded models with mixer and readout functions separated continues. Currently training up a Chinese TinyStories on a 3B-equivalent model that trains, easily, on an 8GB gpu. We're looking at 80-90% reduction in needed GPU memory. Will move more of the work over this coming week.
+
 ## January Updates
 
 It was a fun holiday. First IPs have been filed. Several POCs done with all-optical inference (no GPU!) to explore the envelope of what is possible:
